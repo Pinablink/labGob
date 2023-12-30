@@ -1,0 +1,4 @@
+github.com/Pinablink/lingue v0.0.0-20211224175018-133e81b76bdf h1:44PvY59oqTOFU0eRGop9HjUm9GDDMZK40X1S7/D06og=
+github.com/Pinablink/lingue v0.0.0-20211224175018-133e81b76bdf/go.mod h1:fQmtGyhIInRBIGgUTlyVhBT9wZRWsbXupMyEZ9Rtav0=
+github.com/gofrs/uuid v4.4.0+incompatible h1:3qXRTX8/NbyulANqlc0lchS1gqAVxRgsuW1YrTJupqA=
+github.com/gofrs/uuid v4.4.0+incompatible/go.mod h1:b2aQJv3Z4Fp6yNu3cdSllBxTCLRxnplIgP/c0N/04lM=
