@@ -7,7 +7,7 @@ Imagine você trabalhando em um sistema que precise obter alguns dados sensívei
 ## A idéia
 Esse laboratório irá demonstrar como trabalhar com serialização, compressão e output de um map de dados no Golang. Nessa solução proposta para estudo, teremos um map que será composto por duas structs. O valor serializado em bytes desse map na memória, ficou em 415 Bytes em nosso experimento. Após a execução do processo, foi reduzido o valor para 300 Bytes.
 
-## Material de consulta para verificar esse laboratório
+## Material de consulta desse laboratório
 
 https://medium.com/@weberasantos/serializando-um-map-em-golang-aplicando-compress%C3%A3o-gzip-e-persistindo-em-um-arquivo-bin%C3%A1rio-9a8ac33e25da
 
