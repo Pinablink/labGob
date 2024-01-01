@@ -9,5 +9,6 @@ Esse laboratório irá demonstrar como trabalhar com serialização, compressão
 
 ## Material de consulta para verificar esse laboratório
 
-EM EDIÇÃO
+https://medium.com/@weberasantos/serializando-um-map-em-golang-aplicando-compress%C3%A3o-gzip-e-persistindo-em-um-arquivo-bin%C3%A1rio-9a8ac33e25da
+
 
